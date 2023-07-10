@@ -1,4 +1,4 @@
-# image-enhancement-deep-learning
+# Low Light Image Enhancement using Deep Learning
 A deep learning model inspired by <a href="https://ieeexplore.ieee.org/document/8305143">LLCNN</a> proposed by Li Tao, Chuang Zhu, Guoqing Xiang, Yuan Li et. al
 
 ### Tech stack:
