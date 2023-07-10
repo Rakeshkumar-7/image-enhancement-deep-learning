@@ -1,7 +1,7 @@
 # Low Light Image Enhancement using Deep Learning
-A deep learning model inspired by <a href="https://ieeexplore.ieee.org/document/8305143">LLCNN</a> proposed by Li Tao, Chuang Zhu, Guoqing Xiang, Yuan Li et. al
+A deep learning model inspired by <a href="https://ieeexplore.ieee.org/document/8305143">LLCNN</a> proposed by Li Tao, Chuang Zhu, Guoqing Xiang, Yuan Li et. al. The model is pretty much the same as the one LLCNN authors proposed but I added attention mechanism using Squeeze-and-Excitation blocks. No noticable improvements were found.
 
-### Tech stack:
+### Tech stack and frameworks/modules used:
 - Python for scripting
 - PyTorch for creating, training, testing of the Deep Learning model
 - Numpy, CV2, PIL for data pre-processing
@@ -10,6 +10,8 @@ Huge thanks to <a href="https://github.com/Mr-TalhaIlyas/">Talha Ilyas</a> for h
 
 ## The model in action on Set14 dataset's image:
 
+The original image was synthetically darkened by applying a random gamma between (2, 5) and was passed to the model. The output that the model gave is shown below as "enhanced"
+
 ![Demo Image](https://github.com/Rakeshkumar-7/image-enhancement-deep-learning/blob/main/download.png)
 
 - More test results and metrics can be found in the <a href="https://github.com/Rakeshkumar-7/image-enhancement-deep-learning/blob/main/Test_Model.ipynb">Test_Model</a> file. 
@@ -17,4 +19,4 @@ Huge thanks to <a href="https://github.com/Mr-TalhaIlyas/">Talha Ilyas</a> for h
 - The data pre-processing methodology was borrowed from the LLCNN and LLNet papers
 - All of the model was written and trained on Google Colab
 
-This was done as a project to my University course "Video Analytics" in which we learn about images, videos, compression, enhancement, motion detection, etc
+This was done as a project to my University course "Video Analytics" in which we learn about images, videos, compression, enhancement, motion detection, textures, etc
