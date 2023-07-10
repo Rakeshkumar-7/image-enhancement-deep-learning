@@ -10,7 +10,7 @@ Huge thanks to <a href="https://github.com/Mr-TalhaIlyas/">Talha Ilyas</a> for h
 
 ## The model in action on Set14 dataset's image:
 
-The original image was synthetically darkened by applying a random gamma between (2, 5) and was passed to the model. The output that the model gave is shown below as "enhanced"
+The original image was synthetically darkened by applying a gamma value of 4 and was passed to the model. The output that the model gave is shown below as "enhanced"
 
 ![Demo Image](https://github.com/Rakeshkumar-7/image-enhancement-deep-learning/blob/main/download.png)
 
