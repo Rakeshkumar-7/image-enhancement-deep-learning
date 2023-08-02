@@ -23,4 +23,4 @@ Here's the flow diagram:
 
 ![Flow Diagram](https://imgur.com/SzMLASZ.png)
 
-This was done as a project to my University course "Video Analytics" in which we learn about images, videos, compression, enhancement, motion detection, textures, etc
+This was done as a project to my University course "CSE3043 - Video Analytics" in which we learn about images, videos, compression, enhancement, motion detection, textures, etc
