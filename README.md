@@ -19,4 +19,8 @@ The original image was synthetically darkened by applying a gamma value of 4 and
 - The data pre-processing methodology was borrowed from the LLCNN and LLNet papers
 - All of the model was written and trained on Google Colab
 
+Here's the flow diagram:
+
+![Flow Diagram](https://imgur.com/SzMLASZ.png)
+
 This was done as a project to my University course "Video Analytics" in which we learn about images, videos, compression, enhancement, motion detection, textures, etc
