@@ -12,7 +12,7 @@ Huge thanks to <a href="https://github.com/Mr-TalhaIlyas/">Talha Ilyas</a> for h
 
 The original image was synthetically darkened by applying a gamma value of 4 and was passed to the model. The output that the model gave is shown below as "enhanced"
 
-![Demo Image](https://github.com/Rakeshkumar-7/image-enhancement-deep-learning/blob/main/download.png)
+![Demo Image](https://imgur.com/25khCMs.png)
 
 - More test results and metrics can be found in the <a href="https://github.com/Rakeshkumar-7/image-enhancement-deep-learning/blob/main/Test_Model.ipynb">Test_Model</a> file. 
 - To look at how the model was created, see <a href="https://github.com/Rakeshkumar-7/image-enhancement-deep-learning/blob/main/Research_Image_Enhancement.ipynb">this notebook</a>
