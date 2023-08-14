@@ -1,6 +1,8 @@
 # Low Light Image Enhancement using Deep Learning
 A deep learning model inspired by <a href="https://ieeexplore.ieee.org/document/8305143">LLCNN</a> proposed by Li Tao, Chuang Zhu, Guoqing Xiang, Yuan Li et. al. The model is pretty much the same as the one LLCNN authors proposed but I added attention mechanism using Squeeze-and-Excitation blocks. <i><b>No noticable improvements were found.</b></i>
 
+My primary objective for this project was to apply practical deep learning and to learn the PyTorch framework. I had a great learning experience and also did an Udemy course parallelly to learn PyTorch. A fun project to say the least!
+
 ### Tech stack and frameworks/modules used:
 - Python for scripting
 - PyTorch for creating, training, testing of the Deep Learning model
