@@ -1,5 +1,5 @@
 # Low Light Image Enhancement using Deep Learning
-A deep learning model inspired by <a href="https://ieeexplore.ieee.org/document/8305143">LLCNN</a> proposed by Li Tao, Chuang Zhu, Guoqing Xiang, Yuan Li et. al. The model is pretty much the same as the one LLCNN authors proposed but I added attention mechanism using Squeeze-and-Excitation blocks. No noticable improvements were found.
+A deep learning model inspired by <a href="https://ieeexplore.ieee.org/document/8305143">LLCNN</a> proposed by Li Tao, Chuang Zhu, Guoqing Xiang, Yuan Li et. al. The model is pretty much the same as the one LLCNN authors proposed but I added attention mechanism using Squeeze-and-Excitation blocks. <i><b>No noticable improvements were found.</b></i>
 
 ### Tech stack and frameworks/modules used:
 - Python for scripting
